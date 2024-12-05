@@ -21,7 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me:
-    - "aboutme"
+    - About me: "aboutme"
     - codeforces: "https://codeforces.com/profile/binhtranmcs"
     - linkedin: "https://www.linkedin.com/in/binh-tran-b84285190/"
   Resources:
