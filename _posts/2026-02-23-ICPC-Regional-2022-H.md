@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ICPC 2022 Regional H, Hardest Problem
-cover-img: TODO
-thumbnail-img: TODO
-share-img: TODO
+cover-img: /assets/img/fft-cover.png
+thumbnail-img: /assets/img/fft-cover.png
+share-img: /assets/img/fft-cover.png
 tags: [ICPC, ACM, competitive programming, algorithms]
 author: Binh Tran
 ---
